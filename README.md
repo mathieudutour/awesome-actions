@@ -203,6 +203,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Create Milestone](https://github.com/WyriHaximus/github-action-create-milestone) - Create a new open milestone given the title and description.
 - [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
+- [VS Code extension for GitHub Actions](https://github.com/Lona/vscode-github-actions)
 
 ### Testing and Linting
 
